@@ -1,4 +1,4 @@
-module github.com/ryugenxd/docx2pdf
+module github.com/26552594a/go-docx2pdf
 
 go 1.20
 
