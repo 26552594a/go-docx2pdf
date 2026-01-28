@@ -42,4 +42,4 @@ func main() {
 
 ## 致谢
 
-感谢原作者 [ryugenxd](https://github.com/ryugenxd) 的开源贡献。
+感谢原作者 [ryugenxd](https://github.com/ryugenxd) 的开源。
